@@ -1,3 +1,3 @@
 class StaticController < ApplicationController
-  def
+  def students
 end
