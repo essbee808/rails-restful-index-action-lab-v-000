@@ -1,4 +1,4 @@
-class StaticController < ApplicationController
+class StudentController < ApplicationController
   def students
     @students = Student.all
     render "index"
