@@ -1,6 +1,6 @@
 class StaticController < ApplicationController
   def students
-    render "index"
     
+    render "index"
   end
 end
